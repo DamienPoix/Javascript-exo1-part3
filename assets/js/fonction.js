@@ -1,6 +1,6 @@
-function getImage(){
+function addBorder(){
   document.getElementById('image1').style.border = '3px solid red';
 }
-function outImage(){
+function removeBorder(){
   document.getElementById('image1').style.border = '0';
 }
